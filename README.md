@@ -1,2 +1,2 @@
 # Projects
-This repository is about my learning of Data Science. It contains projects and the work I have done in my interest.
+This repository is about my learning of Data Science. It contains projects which I have done.
