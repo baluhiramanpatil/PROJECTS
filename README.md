@@ -1,2 +1,2 @@
 # Projects
-This repository is all about my project work.
+## This repository contains all my project works.
