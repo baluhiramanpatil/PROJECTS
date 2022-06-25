@@ -1,2 +1,2 @@
-# Machine Learning Projects
-### This repository contains all my project works.
+# MACHINE LEARNING PROJECTS
+### This repository contains Machine Learning projects.
